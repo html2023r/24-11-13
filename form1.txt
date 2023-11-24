@@ -1,0 +1,35 @@
+<html>
+
+
+<head>
+
+</head>
+
+<body>
+
+<form action="https://openai.com" method = "post">
+
+first name:
+<input type = "text" name = "first_name"/>
+<br>
+
+middle name:
+<input type = "text" name = "first_name"/>
+<br>
+
+last name:
+<input type = "text" name = "first_name"/>
+<br>
+
+father's name:
+<input type = "text" name = "first_name"/>
+<br>
+
+mother's name:
+<input type = "text" name = "first_name"/>
+<br>
+
+</body>
+
+
+</html>
